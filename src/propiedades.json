@@ -1,0 +1,23 @@
+[{
+    "id":"1",
+    "tipo": "Casa",
+    "locacion":"CABA",
+    "factor":1.13
+},
+{
+    "id":"2",
+    "tipo": "Departamento",
+    "locacion":"Tandil",
+    "factor":1.04
+},
+{
+    "id":"3",
+    "tipo": "PH",
+    "locacion":"Costa Atlántica",
+    "factor":1.29
+},
+{
+    "id":"4",
+    "tipo": "Local Comercial",
+    "locacion":"Patagonia",
+    "factor":1}]
